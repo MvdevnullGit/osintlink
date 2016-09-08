@@ -72,15 +72,14 @@
  * http://downloadperiscopevideos.com
 * Obtenir des éléments sur la video:
  * https://api.periscope.tv/api/v2/getBroadcastPublic?token= Rajouter l'identifiant de la video  
-  >Le resultat est en Json, installer un [viewer](https://addons.mozilla.org/fr/firefox/addon/jsonview/?src=search)
+    > Le resultat est en Json, installer un [viewer](https:// addons.mozilla.org/fr/firefox/addon/jsonview/?src=search)
 
 
- ###Skype
- * Recherche de compte skype par [mail](http://skresolver.com/email-to-skype.php)/ Ip a partie de [pseudonyme](http://skresolver.com/ip-to-skype.php) http://skresolver.com
+###Skype
+* Recherche de compte skype par [mail](http://skresolver.com/email-to-skype.php)/ Ip a partie de [pseudonyme](http://skresolver.com/ip-to-skype.php) http://skresolver.com
 
- # Securité
- * 1 site = 1 mot de passe http://keepass.info/
- * Double Authentification partout https://twofactorauth.org/
+# Securité
+* 1 site = 1 mot de passe http://keepass.info/* Double Authentification partout https://twofactorauth.org/
   
 #Autoformation
 ### Cours Gratuits
