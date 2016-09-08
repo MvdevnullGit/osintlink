@@ -70,8 +70,8 @@
 * Obtenir des éléments sur la video:
  * https://api.periscope.tv/api/v2/getBroadcastPublic?token= Rajouter l'identifiant de la video
 
-   >Le resultat est en Json, installer un [viewer](https://addons.mozilla.org/fr/firefox/addon/jsonview/?src=search)
-
+   >Le resultat est en Json, installer un [viewer](https://addons.mozilla.org/fr/firefox/addon/jsonview/?src=search)  
+ 
  ###Skype
  * Recherche de compte skype par [mail](http://skresolver.com/email-to-skype.php)/ Ip a partie de [pseudonyme](http://skresolver.com/ip-to-skype.php) http://skresolver.com
 
@@ -88,3 +88,4 @@
 ### Veille Forensic
 * Twitter !! Ex : [#DFIR](https://twitter.com/search?f=tweets&vertical=default&q=%23DFIR&src=tyah)
 * Podcast en Français https://www.nolimitsecu.fr/
+* Blog : Résumé hebdo https://thisweekin4n6.wordpress.com
