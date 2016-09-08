@@ -19,20 +19,21 @@ http://mxtoolbox.com/EmailHeaders.aspx
 ### Reputation
 * Blacklist Spam
  * http://multirbl.valli.org/
-
+  
 #Bitcoin
 ### C'est quoi?
 * Une [video](https://numaparis.ubicast.tv/videos/20-06-2013-140755/) vaut mieux que des grands discours
 ### Recherches sur Wallet
 * https://www.walletexplorer.com
-* https://blockchain.info
-..
+* https://blockchain.info  
+
+  
 #Autoformation
 * https://www.coursera.org
 * https://www.root-me.org
 * https://www.cybrary.it
 
-..
+  
 #Reseau Sociaux
 ###Periscope
 * Telecharger la video 
