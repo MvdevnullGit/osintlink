@@ -2,9 +2,9 @@
 ## Mon Ip
 https://www.ipchicken.com
 ## Titulaire
-  ### * Whois
+  ### Whois
   http://whois.domaintools.com - Whois.sc 
-  ### * Tor
+  ### Tor
   https://exonerator.torproject.org/
 ## Entete de mail
 http://mxtoolbox.com/EmailHeaders.aspx
