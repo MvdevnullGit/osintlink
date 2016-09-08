@@ -26,6 +26,7 @@
 * Open Threat Intelligence
  * https://cymon.io/
 * Autres sites sur la même IP http://www.yougetsignal.com/tools/web-sites-on-web-server/
+
 #Bitcoin
 ### C'est quoi?
 * Une [video](https://numaparis.ubicast.tv/videos/20-06-2013-140755/) vaut mieux que des grands discours
@@ -56,9 +57,11 @@
 
 ### D'après un pseudonyme
 * Liste des defacement par pseudo http://www.zone-h.org/
+* Chercher si le pseudo existe sur 500 sites / Nom de domaine http://knowem.com/checksocialnames.php
 
 ### D'après un email
 * Savoir si le mail a leaké https://haveibeenpwned.com
+* Verifier si le mail est valide http://mailtester.com/testmail.php
 
 ### D'après une image
 * [Google Image](https://images.google.com): Drag & Drop image zone recherche
@@ -70,8 +73,8 @@
 * Obtenir des éléments sur la video:
  * https://api.periscope.tv/api/v2/getBroadcastPublic?token= Rajouter l'identifiant de la video
 
-   >Le resultat est en Json, installer un [viewer](https://addons.mozilla.org/fr/firefox/addon/jsonview/?src=search)  
- 
+   >Le resultat est en Json, installer un [viewer](https://addons.mozilla.org/fr/firefox/addon/jsonview/?src=search)
+
  ###Skype
  * Recherche de compte skype par [mail](http://skresolver.com/email-to-skype.php)/ Ip a partie de [pseudonyme](http://skresolver.com/ip-to-skype.php) http://skresolver.com
 
