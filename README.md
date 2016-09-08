@@ -52,19 +52,24 @@
 * https://malwr.com/
 * https://www.reverse.it/
 
-#Réseaux Sociaux
+#Cibler
+
 ### D'après un pseudonyme
 * Liste des defacement par pseudo http://www.zone-h.org/
 * 
+
 ### D'après une image
 * [Google Image](https://images.google.com): Drag & Drop image zone recherche
 * https://www.tineye.com
+
 ###Periscope
 * Telecharger la video 
  * http://downloadperiscopevideos.com
 * Obtenir des éléments sur la video:
- * https://api.periscope.tv/api/v2/getBroadcastPublic?token= Rajouter l'identifiant de la video  
- >Le resultat est en Json, installer un [viewer](https://addons.mozilla.org/fr/firefox/addon/jsonview/?src=search)  
+ * https://api.periscope.tv/api/v2/getBroadcastPublic?token= Rajouter l'identifiant de la video
+
+  >Le resultat est en Json, installer un [viewer](https://addons.mozilla.org/fr/firefox/addon/jsonview/?src=search)
+
  ###Skype
  * Recherche de compte skype par [mail](http://skresolver.com/email-to-skype.php)/ Ip a partie de [pseudonyme](http://skresolver.com/ip-to-skype.php) http://skresolver.com
   
