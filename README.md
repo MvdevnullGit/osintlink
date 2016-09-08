@@ -32,22 +32,24 @@
 * https://www.walletexplorer.com
 * https://blockchain.info  
 
-  
-#Autoformation
-* https://www.coursera.org
-* https://www.root-me.org
-* https://www.cybrary.it
+# Malware
+### Identification
+* https://virustotal.com/  
+###Ransomware
 
+* Liste à jour des infrastructures : https://ransomwaretracker.abuse.ch/
+* Liste à jour des ransomwares, et des dechiffreurs 
+* Identifier par upload note de rançon ou fichier chiffré https://id-ransomware.malwarehunterteam.com/
   
 #Reseau Sociaux
 ###Periscope
 * Telecharger la video 
  * http://downloadperiscopevideos.com
 * Obtenir des éléments sur la video:
- * https://api.periscope.tv/api/v2/getBroadcastPublic?token= Rajouter l'identifiant de la video 
+ * https://api.periscope.tv/api/v2/getBroadcastPublic?token= Rajouter l'identifiant de la video  
  >Le resultat est en Json, installer un [viewer](https://addons.mozilla.org/fr/firefox/addon/jsonview/?src=search)  
   
 #Autoformation
-https://www.coursera.org
-https://www.root-me.org
-https://www.cybrary.it
+* https://www.coursera.org
+* https://www.root-me.org
+* https://www.cybrary.it
