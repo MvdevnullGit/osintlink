@@ -1,31 +1,31 @@
 # Adresse IP
-## Mon Ip
+### Mon Ip
 https://www.ipchicken.com
-## Entete de mail
+### Entete de mail
 http://mxtoolbox.com/EmailHeaders.aspx
-## Titulaire
-### Whois
-http://whois.domaintools.com - Whois.sc
-http://network-tools.com/ 
+### Titulaire
+* Whois
+ * http://whois.domaintools.com - Whois.sc
+* http://network-tools.com/ 
 ### IpV6
-https://www.ultratools.com/tools/ipv6Info
+* https://www.ultratools.com/tools/ipv6Info
 ### Tor
-https://exonerator.torproject.org/
+* https://exonerator.torproject.org/
 ##Localisation
-https://iplookup.flagfox.net/
+* https://iplookup.flagfox.net/
 ###CloudFlare
-http://www.crimeflare.com/cfs.html#box
+* http://www.crimeflare.com/cfs.html#box
 
-## Reputation
-### Blacklist Spam
-http://multirbl.valli.org/
+### Reputation
+* Blacklist Spam
+ * http://multirbl.valli.org/
 
-##Bitcoin
+#Bitcoin
 ### C'est quoi?
-Une [video](https://numaparis.ubicast.tv/videos/20-06-2013-140755/) vaut mieux que des grands discours
+* Une [video](https://numaparis.ubicast.tv/videos/20-06-2013-140755/) vaut mieux que des grands discours
 ### Recherches sur Wallet
-https://www.walletexplorer.com
-https://blockchain.info
+* https://www.walletexplorer.com
+* https://blockchain.info
 
 ###Autoformation
 https://www.coursera.org
