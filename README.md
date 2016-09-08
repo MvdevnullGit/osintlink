@@ -36,12 +36,11 @@
 ### Identification
 * https://virustotal.com/  
 ###Ransomware
-
 * Liste à jour des infrastructures : https://ransomwaretracker.abuse.ch/
 * Liste à jour des ransomwares, et des dechiffreurs 
 * Identifier par upload note de rançon ou fichier chiffré https://id-ransomware.malwarehunterteam.com/
   
-#Reseau Sociaux
+#Réseaux Sociaux
 ###Periscope
 * Telecharger la video 
  * http://downloadperiscopevideos.com
