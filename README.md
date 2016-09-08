@@ -36,13 +36,22 @@
 
 # Malware
 ### Identification
-* https://virustotal.com/
+* Pour un ou plusieurs fichier https://virustotal.com/ (mais aussi IP, URL, Hash)
+* Pour un site internet
+	* https://sitecheck.sucuri.net/
+	* http://www.urlquery.net/
+	* https://quttera.com/  
 
 ###Ransomware
 
 * Liste à jour des ransomwares, et des dechiffreurs dans un [Google Doc](https://docs.google.com/spreadsheets/d/1TWS238xacAto-fLKh1n5uTsdijWdCEsGIM0Y0Hvmc5g/pubhtml#)
 * Identifier par upload note de rançon ou fichier chiffré https://id-ransomware.malwarehunterteam.com/
-* Liste à jour des IP des infrastructures : https://ransomwaretracker.abuse.ch/  
+* Liste à jour des IP des infrastructures : https://ransomwaretracker.abuse.ch/
+
+###Sandbox
+* https://malwr.com/
+* https://www.reverse.it/
+
 #Réseaux Sociaux
 ### D'après un pseudonyme
 * Liste des defacement par pseudo http://www.zone-h.org/
