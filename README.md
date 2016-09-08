@@ -74,8 +74,17 @@
 
  ###Skype
  * Recherche de compte skype par [mail](http://skresolver.com/email-to-skype.php)/ Ip a partie de [pseudonyme](http://skresolver.com/ip-to-skype.php) http://skresolver.com
+
+ # Securité
+ * 1 site = 1 mot de passe http://keepass.info/
+ * Double Authentification partout https://twofactorauth.org/
   
 #Autoformation
+### Cours Gratuits
 * https://www.coursera.org
 * https://www.root-me.org
 * https://www.cybrary.it
+
+### Veille Forensic
+* Twitter !! Ex : [#DFIR](https://twitter.com/search?f=tweets&vertical=default&q=%23DFIR&src=tyah)
+* Podcast en Français https://www.nolimitsecu.fr/
