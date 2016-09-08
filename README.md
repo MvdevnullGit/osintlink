@@ -37,10 +37,10 @@
 * https://virustotal.com/
 
 ###Ransomware
-* Liste à jour des infrastructures : https://ransomwaretracker.abuse.ch/
-* Liste à jour des ransomwares, et des dechiffreurs 
+
+* Liste à jour des ransomwares, et des dechiffreurs dans un [Google Doc](https://docs.google.com/spreadsheets/d/1TWS238xacAto-fLKh1n5uTsdijWdCEsGIM0Y0Hvmc5g/pubhtml#)
 * Identifier par upload note de rançon ou fichier chiffré https://id-ransomware.malwarehunterteam.com/
-  
+* Liste à jour des IP des infrastructures : https://ransomwaretracker.abuse.ch/  
 #Réseaux Sociaux
 ###Periscope
 * Telecharger la video 
