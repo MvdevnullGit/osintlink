@@ -79,7 +79,8 @@
 * Recherche de compte skype par [mail](http://skresolver.com/email-to-skype.php)/ Ip a partie de [pseudonyme](http://skresolver.com/ip-to-skype.php) http://skresolver.com
 
 # Securité
-* 1 site = 1 mot de passe http://keepass.info/* Double Authentification partout https://twofactorauth.org/
+* 1 site = 1 mot de passe http://keepass.info/
+* Double Authentification partout https://twofactorauth.org/
   
 #Autoformation
 ### Cours Gratuits
