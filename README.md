@@ -1,3 +1,5 @@
 # Adresse IP
 ## Titulaire
-http://whois.domaintools.com
+'''
+http://whois.domaintools.com - Whois.sc 
+'''
