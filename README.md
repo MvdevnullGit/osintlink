@@ -58,10 +58,12 @@
 ### D'après un pseudonyme
 * Liste des defacement par pseudo http://www.zone-h.org/
 * Chercher si le pseudo existe sur 500 sites / Nom de domaine http://knowem.com/checksocialnames.php
+* Recherche au sein de Pastebin & Consorts : https://inteltechniques.com/osint/iframe/pastebins2.html
 
 ### D'après un email
 * Savoir si le mail a leaké https://haveibeenpwned.com
 * Verifier si le mail est valide http://mailtester.com/testmail.php
+
 
 ### D'après une image
 * [Google Image](https://images.google.com): Drag & Drop image zone recherche
