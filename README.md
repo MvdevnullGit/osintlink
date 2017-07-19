@@ -43,17 +43,18 @@
 	* http://www.urlquery.net/
 	* https://quttera.com/  
 
-###Ransomware
+### Ransomware
 
+* https://www.nomoreransom.org
 * Liste à jour des ransomwares, et des dechiffreurs dans un [Google Doc](https://docs.google.com/spreadsheets/d/1TWS238xacAto-fLKh1n5uTsdijWdCEsGIM0Y0Hvmc5g/pubhtml#)
 * Identification par upload de note de rançon ou fichier chiffré https://id-ransomware.malwarehunterteam.com/
 * Liste à jour des IP des infrastructures : https://ransomwaretracker.abuse.ch/
 
-###Sandbox
+### Sandbox
 * https://malwr.com/
 * https://www.reverse.it/
 
-#Cibler
+# Cibler
 
 ### D'après un pseudonyme
 * Liste des defacement par pseudo http://www.zone-h.org/
@@ -69,7 +70,7 @@
 * [Google Image](https://images.google.com): Drag & Drop image zone recherche
 * https://www.tineye.com
 
-###Periscope
+### Periscope
 * Telecharger la video 
  * http://downloadperiscopevideos.com
 * Obtenir des éléments sur la video:
@@ -77,14 +78,14 @@
     > Le resultat est en Json, installer un [viewer](https:// addons.mozilla.org/fr/firefox/addon/jsonview/?src=search)
 
 
-###Skype
+### Skype
 * Recherche de compte skype par [mail](http://skresolver.com/email-to-skype.php)/ Ip a partie de [pseudonyme](http://skresolver.com/ip-to-skype.php) http://skresolver.com
 
 # Securité
 * 1 site = 1 mot de passe http://keepass.info/
 * Double Authentification partout https://twofactorauth.org/
   
-#Autoformation
+# Autoformation
 ### Cours Gratuits
 * https://www.coursera.org
 * https://www.root-me.org
