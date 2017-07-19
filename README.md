@@ -21,7 +21,9 @@
  * http://www.crimeflare.com/cfs.html#box
 
 ### Reputation IP
+
 * Une recheche Google sur l'IP
+* Connaitre les services actifs sur cette ip : https://www.shodan.io
 * Blacklist Spam
  * http://multirbl.valli.org/
  * https://cleantalk.org/blacklists/asn
