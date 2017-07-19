@@ -20,7 +20,8 @@
 * CloudFlare
  * http://www.crimeflare.com/cfs.html#box
 
-### Reputation
+### Reputation IP
+* Une recheche Google sur l'IP
 * Blacklist Spam
  * http://multirbl.valli.org/
  * https://cleantalk.org/blacklists/asn
