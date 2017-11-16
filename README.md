@@ -33,7 +33,7 @@
  
 ###### Open Threat Intelligence
  * https://app.cymon.io
- 
+ * https://www.onyphe.io _ All IP data in one place (French creator) 
 ###### Autres sites sur la même IP http://www.yougetsignal.com/tools/web-sites-on-web-server/
 
 # Bitcoin
@@ -86,6 +86,9 @@
  * https://api.periscope.tv/api/v2/getBroadcastPublic?token= Rajouter l'identifiant de la video  
     > Le resultat est en Json, installer un [viewer](https:// addons.mozilla.org/fr/firefox/addon/jsonview/?src=search)
 
+### Twitter - Informations sur un pseudonyme
+* http://twopcharts.com
+* http://www.twitteraccountsdetails.com
 
 ### Skype
 * Recherche de compte skype par [mail](http://skresolver.com/email-to-skype.php)/ Ip a partie de [pseudonyme](http://skresolver.com/ip-to-skype.php) http://skresolver.com
