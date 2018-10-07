@@ -65,6 +65,8 @@
 
 # Cibler
 
+## Osint ressources
+
 ### D'après un pseudonyme
 * Liste des defacement par pseudo http://www.zone-h.org/
 * Chercher si le pseudo existe sur 500 sites / Nom de domaine http://knowem.com/checksocialnames.php
@@ -92,6 +94,11 @@
 
 ### Skype
 * Recherche de compte skype par [mail](http://skresolver.com/email-to-skype.php)/ Ip a partie de [pseudonyme](http://skresolver.com/ip-to-skype.php) http://skresolver.com
+
+## Osint Help
+
+### Recevoir un sms de validation
+* https://sms-online.co/receive-free-sms
 
 # Securité
 * 1 site = 1 mot de passe http://keepass.info/
