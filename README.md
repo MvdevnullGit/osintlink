@@ -66,7 +66,7 @@
 # Cibler
 
 ## Osint ressources
-Annuaire de site OSINT : 
+### Annuaires de sites OSINT : 
 - https://osintframework.com
 - https://inteltechniques.com/menu.links.html
 
