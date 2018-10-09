@@ -66,7 +66,10 @@
 # Cibler
 
 ## Osint ressources
-Annuaire de site OSINT : https://osintframework.com
+Annuaire de site OSINT : 
+- https://osintframework.com
+- https://inteltechniques.com/menu.links.html
+
 
 ### D'après un pseudonyme
 * Liste des defacement par pseudo http://www.zone-h.org/
