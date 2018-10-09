@@ -119,3 +119,4 @@
 * Twitter !! Ex : [#DFIR](https://twitter.com/search?f=tweets&vertical=default&q=%23DFIR&src=tyah)
 * Podcast en Français https://www.nolimitsecu.fr/
 * Blog : Résumé hebdo https://thisweekin4n6.wordpress.com
+* Osint : https://medium.com/week-in-osint
